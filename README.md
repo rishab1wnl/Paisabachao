@@ -1,7 +1,4 @@
 # paisabachao
-
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.0.1-red)
 
@@ -12,8 +9,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -68,12 +63,4 @@ To set up paisabachao on your local machine, follow these steps:
 - **Web Scraping**: Fetch product data using `requests` and `BeautifulSoup`.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-
----
-
-**Created by [Your Name](https://github.com/rishab1wnl)**
+**Created by [Rishab Tiwari](https://github.com/rishab1wnl)**
