@@ -52,10 +52,6 @@ To set up paisabachao on your local machine, follow these steps:
 
 4. **Search for a product** and view a comparison of prices across different websites.
 
-### Demo
-
-![Demo](https://user-images.githubusercontent.com/123456/demo.gif)
-
 ## Features
 
 - **Price Comparison**: Compare product prices across multiple e-commerce sites.
