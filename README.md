@@ -59,4 +59,4 @@ To set up paisabachao on your local machine, follow these steps:
 - **Web Scraping**: Fetch product data using `requests` and `BeautifulSoup`.
 
 
-**Created by [Rishab Tiwari](https://github.com/rishab1wnl)**
+ > *This project was developed with ❤️ and ☕ by [rishab1wnl](https://github.com/rishab1wnl) *
